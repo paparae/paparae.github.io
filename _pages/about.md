@@ -2,33 +2,41 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.snu.ac.kr/'>"서울대학교"</a> | <a href='https://humanities.snu.ac.kr/'>"인문대학"</a> | <a href='https://whistory.snu.ac.kr/'> "서양사학과" </a>
+subtitle: <a href='https://www.snu.ac.kr/'>서울대학교</a> | <a href='https://humanities.snu.ac.kr/'>인문대학</a> | <a href='https://whistory.snu.ac.kr/'> 서양사학과 </a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: drawing.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>구름 바다 그림</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  enabled: false # includes a list of news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
+최근 포스트:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+###학적  
+김지은은 2022학년도에 [인문대학 서양사학과](https://whistory.snu.ac.kr/)에 입학했습니다.  
+2025학년도, [인문데이터과학 연계전공](https://dsh.snu.ac.kr/)에 진입하고 싶어 인문데이터과학개론을 수강 중입니다.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+###동아리  
+서울대학교 야생조류연구회 버들에 가입되어 있습니다.  
+[노랑멧새](https://ko.wikipedia.org/wiki/%EB%85%B8%EB%9E%91%EB%A9%A7%EC%83%88)라는 새명을 얻었습니다.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+###2025학년도 1학기 수강 과목  
+* 인문데이터과학개론
+* 시사 프랑스어
+* 근대 서양의 인종과 식민주의
+* 인구변동과 이동의 지리학(영어강의)
+* 동남아시아의 역사와 해상무역(영어강의)
+* 학생자율연구 탐구
