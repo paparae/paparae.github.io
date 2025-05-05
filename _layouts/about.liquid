@@ -49,11 +49,11 @@ layout: default
     {% endif %}
 
     <!-- Latest posts -->
-    {% if page.최근_포스트 and page.최근_포스트.enabled %}
+    {% if page.'최근_포스트' and page.'최근_포스트'.enabled %}
       <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">최근_포스트</a>
+        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">'최근_포스트'</a>
       </h2>
-      {% include 최근_포스트.liquid %}
+      {% include '최근_포스트'.liquid %}
     {% endif %}
 
     <!-- Selected papers -->
