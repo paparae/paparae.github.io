@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.snu.ac.kr/'>"서울대학교"</a> | <a href='https://humanities.snu.ac.kr/'>"인문대학"</a> | <a href='https://whistory.snu.ac.kr/'> "서양사학과" </a>
 
 profile:
   align: right
