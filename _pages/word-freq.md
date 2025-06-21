@@ -12,4 +12,4 @@ nav_order: 4
 
 ## 단어 빈도 시각화
 <canvas id="myChart"></canvas>
-<script src="word-freq.js"></script>
+<script src="/assets/js/word-freq.js"></script>
